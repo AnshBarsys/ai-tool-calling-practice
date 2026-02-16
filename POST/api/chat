@@ -1,0 +1,19 @@
+# TESTING ON UI, POST/api/chat
+
+{
+  "user_id": "1",
+  "session_id": "test-session-1",
+  "input": {
+    "text": "hello",
+    "image": null
+  },
+  "metadata": {
+    "platform": "web",
+    "app_version": "1.0",
+    "language": "en",
+    "device": {
+      "device_number": "123",
+      "connection_status": "connected"
+    }
+  }
+}
